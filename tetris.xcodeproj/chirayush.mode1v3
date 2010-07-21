@@ -325,7 +325,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>E891516211F6859200B7956B</string>
+										<string>E891516811F6A32400B7956B</string>
 										<key>history</key>
 										<array>
 											<string>E8BEC3FE11EEE68F008D902A</string>
@@ -528,6 +528,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>1CD10A99069EF8BA00B06720</string>
 		<string>E8BDB7D311D984520008E3A9</string>
 		<string>/Users/chirayush/Documents/workspace/tetris/tetris.xcodeproj</string>
 	</array>
@@ -731,13 +732,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>E8DB5F8C11F54B5600E07C16</string>
+				<string>E891516911F6A32400B7956B</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>E8DB5F8D11F54B5600E07C16</string>
-				<string>E8DB5F8E11F54B5600E07C16</string>
-				<string>E8DB5F8F11F54B5600E07C16</string>
-				<string>E8DB5F9011F54B5600E07C16</string>
-				<string>E8DB5F9111F54B5600E07C16</string>
+				<string>E891516A11F6A32400B7956B</string>
+				<string>E891516B11F6A32400B7956B</string>
+				<string>E891516C11F6A32400B7956B</string>
+				<string>E891516D11F6A32400B7956B</string>
+				<string>E891516E11F6A32400B7956B</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>

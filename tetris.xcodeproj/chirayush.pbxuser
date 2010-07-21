@@ -43,6 +43,7 @@
 		};
 		perUserProjectItems = {
 			E891516211F6859200B7956B /* PBXTextBookmark */ = E891516211F6859200B7956B /* PBXTextBookmark */;
+			E891516811F6A32400B7956B /* PBXTextBookmark */ = E891516811F6A32400B7956B /* PBXTextBookmark */;
 			E8B3737911F4224200788A35 = E8B3737911F4224200788A35 /* PBXTextBookmark */;
 			E8BEC3FE11EEE68F008D902A = E8BEC3FE11EEE68F008D902A /* PBXTextBookmark */;
 			E8BEC3FF11EEE68F008D902A = E8BEC3FF11EEE68F008D902A /* PBXBookmark */;
@@ -61,6 +62,16 @@
 		rType = 0;
 		vrLen = 1402;
 		vrLoc = 0;
+	};
+	E891516811F6A32400B7956B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E8DB5FB011F5742600E07C16 /* index.html */;
+		name = "index.html: 9";
+		rLen = 0;
+		rLoc = 465;
+		rType = 0;
+		vrLen = 1059;
+		vrLoc = 1478;
 	};
 	E8B3737911F4224200788A35 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -168,9 +179,9 @@
 		path = /Users/chirayush/Documents/workspace/tetris/www/index.html;
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {852, 5291}}";
-			sepNavSelRange = "{13151, 0}";
-			sepNavVisRange = "{0, 1402}";
+			sepNavIntBoundsRect = "{{0, 0}, {999, 5382}}";
+			sepNavSelRange = "{465, 0}";
+			sepNavVisRange = "{1478, 1059}";
 		};
 	};
 }

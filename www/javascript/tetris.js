@@ -1,14 +1,3 @@
-/*
- * PROJECT:  JsTetris
- * VERSION:  1.19
- * LICENSE:  BSD (revised)
- * AUTHOR:  (c) 2004-2009 Cezary Tomczak
- * LINK:  http://www.gosu.pl/tetris/
- *
- * This script can be used freely as long as all
- * copyright messages are intact.
- */
-
 /**
  * Tetris Game
  * Initializes the buttons automatically, no additional actions required
