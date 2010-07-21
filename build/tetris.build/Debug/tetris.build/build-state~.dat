@@ -1,0 +1,91 @@
+Ttetris
+v7
+r1
+
+N/Users/chirayush/Documents/PhoneGapLib/VERSION
+c000000004C23EF120000000000000005
+t1277423378
+s5
+
+N/Users/chirayush/Documents/workspace/tetris/Default.png
+c000000004C294CB90000000000000BAE
+t1277775033
+s2990
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug/tetris.app
+t2
+s0
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug/tetris.app/Contents/Info.plist
+t2
+s0
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug/tetris.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug/tetris.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug/tetris.app/Contents/Resources/VERSION
+t2
+s0
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug/tetris.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug/tetris.app/Contents/Resources/www
+t2
+s0
+
+N/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug/tetris.build/Script-304B58A110DAC018002A0835.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug/tetris.build/Script-30E9A9A110B758320022D3BA.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/chirayush/Documents/workspace/tetris/icon.png
+c000000004C294CB90000000000001CDE
+t1277775033
+s7390
+
+N/Users/chirayush/Documents/workspace/tetris/www
+c000000004C294E080000000000000176
+t1277775368
+s374
+
+Ntetris-Info.plist
+c000000004C294CB9000000000000038B
+t1277775033
+s907
+
+CCpResource build/Debug/tetris.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/tetris.app/Contents/Resources/VERSION /Users/chirayush/Documents/PhoneGapLib/VERSION
+r0
+
+CCpResource build/Debug/tetris.app/Contents/Resources/icon.png icon.png
+r0
+
+CCpResource build/Debug/tetris.app/Contents/Resources/www www
+r0
+
+CPhaseScriptExecution "Copy PhoneGap Javascript" /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug/tetris.build/Script-30E9A9A110B758320022D3BA.sh
+r0
+
+CPhaseScriptExecution "Touch www folder" /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug/tetris.build/Script-304B58A110DAC018002A0835.sh
+r0
+
+CProcessInfoPlistFile /Users/chirayush/Documents/workspace/tetris/build/Debug/tetris.app/Contents/Info.plist tetris-Info.plist
+r0
+
+CTouch /Users/chirayush/Documents/workspace/tetris/build/Debug/tetris.app
+r0
+
