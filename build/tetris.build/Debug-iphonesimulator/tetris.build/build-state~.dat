@@ -1,0 +1,483 @@
+Ttetris
+v7
+r0
+t301376686.277114
+cCheck dependencies
+cProcessInfoPlistFile /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/Info.plist tetris-Info.plist
+cPhaseScriptExecution "Copy PhoneGap Javascript" /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Script-30E9A9A110B758320022D3BA.sh
+cPhaseScriptExecution "Touch www folder" /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Script-304B58A110DAC018002A0835.sh
+cCpResource build/Debug-iphonesimulator/tetris.app/www www
+cCpResource build/Debug-iphonesimulator/tetris.app/VERSION /Users/chirayush/Documents/PhoneGapLib/VERSION
+cCpResource build/Debug-iphonesimulator/tetris.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/tetris.app/icon.png icon.png
+cProcessPCH /var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tetris_Prefix-dpazyoxurdhnyyffvgwycuqslnzk/tetris_Prefix.pch.gch tetris_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/main.o /Users/chirayush/Documents/workspace/tetris/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/tetrisAppDelegate.o /Users/chirayush/Documents/workspace/tetris/Classes/tetrisAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/tetris normal i386
+cGenerateDSYMFile /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app.dSYM /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/tetris
+cTouch /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C22E83D0000000000000132
+t1277356093
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C01F5AE00000000000C05A0
+t1275196846
+s787872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C01F5AA000000000000065C
+t1275196842
+s1628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004BFF3B87000000000006F150
+t1275018119
+s454992
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AddressBook.framework/Headers/ABAddressBook.h
+c000000004BFF3B830000000000000A8C
+t1275018115
+s2700
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004C04722E0000000000147690
+t1275359790
+s1341072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004C0472220000000000000202
+t1275359778
+s514
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004BFF3B7600000000001C8900
+t1275018102
+s1870080
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004BFF3B620000000000010A78
+t1275018082
+s68216
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004BFDFE57000000000018BC00
+t1274936919
+s1620992
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BFF44C00000000000068F90
+t1275020480
+s429968
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BFF44B600000000000001D0
+t1275020470
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004C0473250000000000155C80
+t1275360037
+s1399936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004BFDFDAA000000000005E690
+t1274936746
+s386704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDevice.h
+c000000004C0470BB000000000000126F
+t1275359419
+s4719
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h
+c000000004C0470BB0000000000001971
+t1275359419
+s6513
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITabBar.h
+c000000004C0470BB0000000000000BF1
+t1275359419
+s3057
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIToolbar.h
+c000000004C0470BB0000000000000704
+t1275359419
+s1796
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/chirayush/Documents/PhoneGapLib/Classes/Contacts.h
+c000000004C23EF120000000000000A53
+t1277423378
+s2643
+i<Foundation/Foundation.h>
+i<AddressBook/ABAddressBook.h>
+i<AddressBookUI/AddressBookUI.h>
+i"PhoneGapCommand.h"
+
+N/Users/chirayush/Documents/PhoneGapLib/Classes/DebugConsole.h
+c000000004C23EF120000000000000170
+t1277423378
+s368
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"PhoneGapCommand.h"
+
+N/Users/chirayush/Documents/PhoneGapLib/Classes/Device.h
+c000000004C23EF120000000000000141
+t1277423378
+s321
+i<UIKit/UIKit.h>
+i<UIKit/UIDevice.h>
+i"PhoneGapCommand.h"
+
+N/Users/chirayush/Documents/PhoneGapLib/Classes/JSON/JSON.h
+c000000004C23EF1200000000000008F9
+t1277423378
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/chirayush/Documents/PhoneGapLib/Classes/Location.h
+c000000004C23EF120000000000000530
+t1277423378
+s1328
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"PhoneGapCommand.h"
+
+N/Users/chirayush/Documents/PhoneGapLib/Classes/PhoneGapCommand.h
+c000000004C23EF1200000000000002ED
+t1277423378
+s749
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/chirayush/Documents/PhoneGapLib/Classes/PhoneGapDelegate.h
+c000000004C23EF1200000000000006C7
+t1277423378
+s1735
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UINavigationController.h>
+i"JSON/JSON.h"
+i"Location.h"
+i"Device.h"
+i"Sound.h"
+i"Contacts.h"
+i"DebugConsole.h"
+i"UIControls.h"
+
+N/Users/chirayush/Documents/PhoneGapLib/Classes/PhoneGapViewController.h
+c000000004C23EF12000000000000029B
+t1277423378
+s667
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/chirayush/Documents/PhoneGapLib/Classes/Sound.h
+c000000004C23EF12000000000000060C
+t1277423378
+s1548
+i<Foundation/Foundation.h>
+i<AudioToolbox/AudioServices.h>
+i<AVFoundation/AVFoundation.h>
+i"PhoneGapCommand.h"
+
+N/Users/chirayush/Documents/PhoneGapLib/Classes/UIControls.h
+c000000004C23EF12000000000000066A
+t1277423378
+s1642
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<UIKit/UITabBar.h>
+i<UIKit/UIToolbar.h>
+i"PhoneGapCommand.h"
+
+N/Users/chirayush/Documents/PhoneGapLib/VERSION
+c000000004C23EF120000000000000005
+t1277423378
+s5
+
+N/Users/chirayush/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGapLib.a
+c000000004C23F3C7000000000011B798
+t1277424583
+s1161112
+
+N/Users/chirayush/Documents/workspace/tetris/Classes/tetrisAppDelegate.h
+c000000004C294CB900000000000000FC
+t1277775033
+s252
+i<UIKit/UIKit.h>
+i"PhoneGapDelegate.h"
+
+N/Users/chirayush/Documents/workspace/tetris/Classes/tetrisAppDelegate.m
+c000000004C294CB900000000000007E9
+t1277775033
+s2025
+i"tetrisAppDelegate.h"
+i"PhoneGapViewController.h"
+
+N/Users/chirayush/Documents/workspace/tetris/Default.png
+c000000004C294CB90000000000000BAE
+t1277775033
+s2990
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app
+t1279683886
+s306
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app.dSYM
+t1279683886
+s102
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/Default.png
+t1279683882
+s2990
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/Info.plist
+t1279683882
+s590
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/PkgInfo
+t1279683882
+s8
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/VERSION
+t1279683882
+s5
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/icon.png
+t1279683882
+s7390
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/tetris
+t1279683886
+s252440
+
+N/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/www
+t1279683882
+s442
+
+N/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/main.o
+t1279683884
+s6496
+
+N/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/tetris.LinkFileList
+c000000004C466D2A0000000000000107
+t1279683882
+s263
+
+N/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/tetrisAppDelegate.o
+t1279683885
+s46116
+
+N/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Script-304B58A110DAC018002A0835.sh
+c000000004C466D2A0000000000000027
+t1279683882
+s39
+
+N/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Script-30E9A9A110B758320022D3BA.sh
+c000000004C466D2A00000000000000BE
+t1279683882
+s190
+
+N/Users/chirayush/Documents/workspace/tetris/icon.png
+c000000004C294CB90000000000001CDE
+t1277775033
+s7390
+
+N/Users/chirayush/Documents/workspace/tetris/main.m
+c000000004C294CB90000000000000174
+t1277775033
+s372
+i<UIKit/UIKit.h>
+
+N/Users/chirayush/Documents/workspace/tetris/tetris_Prefix.pch
+c000000004C294CB900000000000000B5
+t1277775033
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/chirayush/Documents/workspace/tetris/www
+c000000004C466D2A00000000000001DC
+t1279683882
+s476
+
+N/var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tetris_Prefix-dpazyoxurdhnyyffvgwycuqslnzk/tetris_Prefix.pch.gch
+t1279683884
+s15232016
+
+Ntetris-Info.plist
+c000000004C294CB9000000000000038B
+t1277775033
+s907
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301376682#301376682#0(0"0(0#1#0"8604505568#0"0#
+
+CCompileC build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/main.o /Users/chirayush/Documents/workspace/tetris/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301376684.685194
+e301376684.820270
+r1
+xCompileC
+xbuild/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/main.o
+x/Users/chirayush/Documents/workspace/tetris/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/chirayush/Documents/workspace/tetris/main.m301376684#301376684#0(0"0(0#0#50"/Users/chirayush/Documents/workspace/tetris/main.m8606642848#1990"    cd /Users/chirayush/Documents/workspace/tetris    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-generated-files.hmap -I/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-own-target-headers.hmap -I/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-all-target-headers.hmap -iquote /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-project-headers.hmap -F/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator -iquote/Users/chirayush/Documents/PhoneGapLib/Classes -I/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/include -I/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/DerivedSources/i386 -I/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/DerivedSources -include /var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tetris_Prefix-dpazyoxurdhnyyffvgwycuqslnzk/tetris_Prefix.pch -c /Users/chirayush/Documents/workspace/tetris/main.m -o /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/main.o0#
+
+CCompileC build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/tetrisAppDelegate.o /Users/chirayush/Documents/workspace/tetris/Classes/tetrisAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301376684.686507
+e301376685.142792
+r1
+xCompileC
+xbuild/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/tetrisAppDelegate.o
+x/Users/chirayush/Documents/workspace/tetris/Classes/tetrisAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/chirayush/Documents/workspace/tetris/Classes/tetrisAppDelegate.m301376684#301376685#0(0"0(0#0#71"/Users/chirayush/Documents/workspace/tetris/Classes/tetrisAppDelegate.m8606447296#2024"    cd /Users/chirayush/Documents/workspace/tetris    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-generated-files.hmap -I/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-own-target-headers.hmap -I/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-all-target-headers.hmap -iquote /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-project-headers.hmap -F/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator -iquote/Users/chirayush/Documents/PhoneGapLib/Classes -I/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/include -I/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/DerivedSources/i386 -I/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/DerivedSources -include /var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tetris_Prefix-dpazyoxurdhnyyffvgwycuqslnzk/tetris_Prefix.pch -c /Users/chirayush/Documents/workspace/tetris/Classes/tetrisAppDelegate.m -o /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/tetrisAppDelegate.o0#
+
+CCpResource build/Debug-iphonesimulator/tetris.app/Default.png Default.png
+s301376682.510521
+e301376682.560577
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/tetris.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png301376682#301376682#0(0"0(0#0#55"/Users/chirayush/Documents/workspace/tetris/Default.png8606104640#469"    cd /Users/chirayush/Documents/workspace/tetris    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chirayush/Documents/workspace/tetris/Default.png /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app0#
+
+CCpResource build/Debug-iphonesimulator/tetris.app/VERSION /Users/chirayush/Documents/PhoneGapLib/VERSION
+s301376682.509884
+e301376682.559421
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/tetris.app/VERSION
+x/Users/chirayush/Documents/PhoneGapLib/VERSION
+lSLF07#2@51"Copy /Users/chirayush/Documents/PhoneGapLib/VERSION301376682#301376682#0(0"0(0#0#46"/Users/chirayush/Documents/PhoneGapLib/VERSION8606333952#460"    cd /Users/chirayush/Documents/workspace/tetris    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chirayush/Documents/PhoneGapLib/VERSION /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app0#
+
+CCpResource build/Debug-iphonesimulator/tetris.app/icon.png icon.png
+s301376682.511161
+e301376682.561488
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/tetris.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png301376682#301376682#0(0"0(0#0#52"/Users/chirayush/Documents/workspace/tetris/icon.png8605856608#466"    cd /Users/chirayush/Documents/workspace/tetris    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chirayush/Documents/workspace/tetris/icon.png /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app0#
+
+CCpResource build/Debug-iphonesimulator/tetris.app/www www
+s301376682.508584
+e301376682.597159
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/tetris.app/www
+xwww
+lSLF07#2@8"Copy www301376682#301376682#0(0"0(0#0#47"/Users/chirayush/Documents/workspace/tetris/www8606633856#461"    cd /Users/chirayush/Documents/workspace/tetris    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/chirayush/Documents/workspace/tetris/www /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app0#
+
+CGenerateDSYMFile /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app.dSYM /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/tetris
+s301376686.087830
+e301376686.273694
+r1
+xGenerateDSYMFile
+x/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app.dSYM
+x/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/tetris
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/tetris.app.dSYM build/Debug-iphonesimulator/tetris.app/tetris301376686#301376686#0(0"0(0#0#89"/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/tetris8605717504#395"    cd /Users/chirayush/Documents/workspace/tetris    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/tetris -o /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app.dSYM0#
+
+CLd /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/tetris normal i386
+s301376685.142887
+e301376686.087724
+r1
+xLd
+x/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/tetris
+xnormal
+xi386
+lSLF07#2@94"Link /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/tetris301376685#301376686#0(0"0(0#0#0"8606153760#1238"    cd /Users/chirayush/Documents/workspace/tetris    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator -F/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator -filelist /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/tetris.LinkFileList -mmacosx-version-min=10.6 -all_load -Obj-C -Xlinker -objc_abi_version -Xlinker 2 /Users/chirayush/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGapLib.a -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -o /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/tetris0#
+
+CPhaseScriptExecution "Copy PhoneGap Javascript" /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Script-30E9A9A110B758320022D3BA.sh
+s301376682.371119
+e301376682.461095
+r1
+xPhaseScriptExecution
+xCopy PhoneGap Javascript
+x/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Script-30E9A9A110B758320022D3BA.sh
+omake: Nothing to be done for `all'.
+ocp /Users/chirayush/Documents/PhoneGapLib/javascripts/phonegap.js /Users/chirayush/Documents/workspace/tetris/www/phonegap.js
+lSLF07#2@50"Run custom shell script 'Copy PhoneGap Javascript'301376682#301376682#0(162"make: Nothing to be done for `all'.cp /Users/chirayush/Documents/PhoneGapLib/javascripts/phonegap.js /Users/chirayush/Documents/workspace/tetris/www/phonegap.js2(13@36"make: Nothing to be done for `all'.301376682#0#36#0(1@0"0(13@126"cp /Users/chirayush/Documents/PhoneGapLib/javascripts/phonegap.js /Users/chirayush/Documents/workspace/tetris/www/phonegap.js301376682#36#126#0(1@0"0(0#0#0"8603937216#17224"    cd /Users/chirayush/Documents/workspace/tetris    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER chirayush    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/chirayush/Documents/workspace/tetris/build    setenv BUILD_ROOT /Users/chirayush/Documents/workspace/tetris/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH tetris.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/tetris.dst    setenv DWARF_DSYM_FILE_NAME tetris.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH tetris.app/Executables    setenv EXECUTABLE_FOLDER_PATH tetris.app    setenv EXECUTABLE_NAME tetris    setenv EXECUTABLE_PATH tetris.app/tetris    setenv FILE_LIST /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH tetris.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME tetris.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER tetris_Prefix.pch    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30200"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE tetris-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH tetris.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/tetris.dst/Users/chirayush/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER chirayush    setenv INSTALL_PATH /Users/chirayush/Applications    setenv INSTALL_ROOT /tmp/tetris.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH tetris.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/tetris.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1064    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0604    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal    setenv OBJROOT /Users/chirayush/Documents/workspace/tetris/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH tetris.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/chirayush/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/PkgInfo    setenv PKGINFO_PATH tetris.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH tetris.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH tetris.app/PrivateHeaders    setenv PRODUCT_NAME tetris    setenv PRODUCT_SETTINGS_PATH /Users/chirayush/Documents/workspace/tetris/tetris-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT tetris    setenv PROJECT_DERIVED_FILE_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/DerivedSources    setenv PROJECT_DIR /Users/chirayush/Documents/workspace/tetris    setenv PROJECT_FILE_PATH /Users/chirayush/Documents/workspace/tetris/tetris.xcodeproj    setenv PROJECT_NAME tetris    setenv PROJECT_TEMP_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build    setenv PUBLIC_HEADERS_FOLDER_PATH tetris.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH tetris.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_NAME iphonesimulator4.0    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH tetris.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH tetris.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/chirayush/Documents/workspace/tetris    setenv SRCROOT /Users/chirayush/Documents/workspace/tetris    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1    setenv SYMBOL_REPOSITORY_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/SymbolRepositories    setenv SYMROOT /Users/chirayush/Documents/workspace/tetris/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME tetris    setenv TARGET_BUILD_DIR /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator    setenv TARGET_NAME tetris    setenv TARGET_TEMP_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build    setenv TEMP_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build    setenv TEMP_FILES_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build    setenv TEMP_FILE_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build    setenv TEMP_ROOT /Users/chirayush/Documents/workspace/tetris/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH tetris.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER chirayush    setenv USER_APPS_DIR /Users/chirayush/Applications    setenv USER_HEADER_SEARCH_PATHS /Users/chirayush/Documents/PhoneGapLib/Classes    setenv USER_LIBRARY_DIR /Users/chirayush/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH tetris.app/version.plist    setenv VERSION_INFO_BUILDER chirayush    setenv VERSION_INFO_FILE tetris_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:tetris  PROJECT:tetris-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME tetris.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0323    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Script-30E9A9A110B758320022D3BA.sh0#
+
+CPhaseScriptExecution "Touch www folder" /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Script-304B58A110DAC018002A0835.sh
+s301376682.461581
+e301376682.508501
+r1
+xPhaseScriptExecution
+xTouch www folder
+x/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Script-304B58A110DAC018002A0835.sh
+lSLF07#2@42"Run custom shell script 'Touch www folder'301376682#301376682#0(0"0(0#0#0"8604414720#17224"    cd /Users/chirayush/Documents/workspace/tetris    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER chirayush    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/chirayush/Documents/workspace/tetris/build    setenv BUILD_ROOT /Users/chirayush/Documents/workspace/tetris/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH tetris.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/tetris.dst    setenv DWARF_DSYM_FILE_NAME tetris.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH tetris.app/Executables    setenv EXECUTABLE_FOLDER_PATH tetris.app    setenv EXECUTABLE_NAME tetris    setenv EXECUTABLE_PATH tetris.app/tetris    setenv FILE_LIST /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH tetris.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME tetris.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER tetris_Prefix.pch    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30200"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE tetris-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH tetris.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/tetris.dst/Users/chirayush/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER chirayush    setenv INSTALL_PATH /Users/chirayush/Applications    setenv INSTALL_ROOT /tmp/tetris.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH tetris.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal/i386/tetris.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1064    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0604    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Objects-normal    setenv OBJROOT /Users/chirayush/Documents/workspace/tetris/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH tetris.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/chirayush/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/PkgInfo    setenv PKGINFO_PATH tetris.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH tetris.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH tetris.app/PrivateHeaders    setenv PRODUCT_NAME tetris    setenv PRODUCT_SETTINGS_PATH /Users/chirayush/Documents/workspace/tetris/tetris-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT tetris    setenv PROJECT_DERIVED_FILE_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/DerivedSources    setenv PROJECT_DIR /Users/chirayush/Documents/workspace/tetris    setenv PROJECT_FILE_PATH /Users/chirayush/Documents/workspace/tetris/tetris.xcodeproj    setenv PROJECT_NAME tetris    setenv PROJECT_TEMP_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build    setenv PUBLIC_HEADERS_FOLDER_PATH tetris.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH tetris.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_NAME iphonesimulator4.0    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH tetris.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH tetris.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/chirayush/Documents/workspace/tetris    setenv SRCROOT /Users/chirayush/Documents/workspace/tetris    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1    setenv SYMBOL_REPOSITORY_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/SymbolRepositories    setenv SYMROOT /Users/chirayush/Documents/workspace/tetris/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME tetris    setenv TARGET_BUILD_DIR /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator    setenv TARGET_NAME tetris    setenv TARGET_TEMP_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build    setenv TEMP_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build    setenv TEMP_FILES_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build    setenv TEMP_FILE_DIR /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build    setenv TEMP_ROOT /Users/chirayush/Documents/workspace/tetris/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH tetris.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER chirayush    setenv USER_APPS_DIR /Users/chirayush/Applications    setenv USER_HEADER_SEARCH_PATHS /Users/chirayush/Documents/PhoneGapLib/Classes    setenv USER_LIBRARY_DIR /Users/chirayush/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH tetris.app/version.plist    setenv VERSION_INFO_BUILDER chirayush    setenv VERSION_INFO_FILE tetris_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:tetris  PROJECT:tetris-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME tetris.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0323    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/Script-304B58A110DAC018002A0835.sh0#
+
+CProcessInfoPlistFile /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/Info.plist tetris-Info.plist
+s301376682.346004
+e301376682.371002
+r1
+xProcessInfoPlistFile
+x/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/Info.plist
+xtetris-Info.plist
+lSLF07#2@25"Process tetris-Info.plist301376682#301376682#0(0"0(0#0#61"/Users/chirayush/Documents/workspace/tetris/tetris-Info.plist28992425118793828#491"    cd /Users/chirayush/Documents/workspace/tetris    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility tetris-Info.plist -genpkginfo /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app/Info.plist0#
+
+CProcessPCH /var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tetris_Prefix-dpazyoxurdhnyyffvgwycuqslnzk/tetris_Prefix.pch.gch tetris_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s301376682.597261
+e301376684.683974
+r1
+xProcessPCH
+x/var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tetris_Prefix-dpazyoxurdhnyyffvgwycuqslnzk/tetris_Prefix.pch.gch
+xtetris_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile tetris_Prefix.pch301376682#301376684#0(0"0(0#0#61"/Users/chirayush/Documents/workspace/tetris/tetris_Prefix.pch8604397120#1878"    cd /Users/chirayush/Documents/workspace/tetris    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-generated-files.hmap -I/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-own-target-headers.hmap -I/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-all-target-headers.hmap -iquote /Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/tetris-project-headers.hmap -F/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator -iquote/Users/chirayush/Documents/PhoneGapLib/Classes -I/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/include -I/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/DerivedSources/i386 -I/Users/chirayush/Documents/workspace/tetris/build/tetris.build/Debug-iphonesimulator/tetris.build/DerivedSources -c /Users/chirayush/Documents/workspace/tetris/tetris_Prefix.pch -o /var/folders/rQ/rQPsQQU2GCeVxItuSi8yfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tetris_Prefix-dpazyoxurdhnyyffvgwycuqslnzk/tetris_Prefix.pch.gch0#
+
+CTouch /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app
+s301376686.273841
+e301376686.277066
+r1
+xTouch
+x/Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app
+lSLF07#2@88"Touch /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app301376686#301376686#0(0"0(0#0#0"8604323904#287"    cd /Users/chirayush/Documents/workspace/tetris    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/chirayush/Documents/workspace/tetris/build/Debug-iphonesimulator/tetris.app0#
+

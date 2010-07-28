@@ -21,7 +21,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					501,
+					833,
 					20,
 					48,
 					43,
@@ -42,52 +42,56 @@
 			PBXWorkspaceStateSaveDate = 301368714;
 		};
 		perUserProjectItems = {
-			E891516211F6859200B7956B /* PBXTextBookmark */ = E891516211F6859200B7956B /* PBXTextBookmark */;
-			E891516811F6A32400B7956B /* PBXTextBookmark */ = E891516811F6A32400B7956B /* PBXTextBookmark */;
-			E8B3737911F4224200788A35 = E8B3737911F4224200788A35 /* PBXTextBookmark */;
-			E8BEC3FE11EEE68F008D902A = E8BEC3FE11EEE68F008D902A /* PBXTextBookmark */;
-			E8BEC3FF11EEE68F008D902A = E8BEC3FF11EEE68F008D902A /* PBXBookmark */;
-			E8DB5FAF11F5742600E07C16 = E8DB5FAF11F5742600E07C16 /* PBXTextBookmark */;
+			E89151B211F6C04100B7956B /* PBXTextBookmark */ = E89151B211F6C04100B7956B /* PBXTextBookmark */;
+			E89151B311F6C04100B7956B /* PBXTextBookmark */ = E89151B311F6C04100B7956B /* PBXTextBookmark */;
+			E89151B511F6C04100B7956B /* PBXTextBookmark */ = E89151B511F6C04100B7956B /* PBXTextBookmark */;
+			E8BEC3FE11EEE68F008D902A /* PBXTextBookmark */ = E8BEC3FE11EEE68F008D902A /* PBXTextBookmark */;
+			E8BEC3FF11EEE68F008D902A /* PBXBookmark */ = E8BEC3FF11EEE68F008D902A /* PBXBookmark */;
 		};
 		sourceControlManager = E8BDB7D511D984520008E3A9 /* Source Control */;
 		userBuildSettings = {
 		};
 	};
-	E891516211F6859200B7956B /* PBXTextBookmark */ = {
+	E89151B211F6C04100B7956B /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = E8DB5FB011F5742600E07C16 /* index.html */;
-		name = "index.html: 430";
+		name = "index.html: 232";
 		rLen = 0;
-		rLoc = 13151;
+		rLoc = 7394;
 		rType = 0;
-		vrLen = 1402;
-		vrLoc = 0;
+		vrLen = 1012;
+		vrLoc = 6648;
 	};
-	E891516811F6A32400B7956B /* PBXTextBookmark */ = {
+	E89151B311F6C04100B7956B /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = E8DB5FB011F5742600E07C16 /* index.html */;
-		name = "index.html: 9";
+		fRef = E89151B411F6C04100B7956B /* phonegap.js */;
+		name = "phonegap.js: 222";
 		rLen = 0;
-		rLoc = 465;
+		rLoc = 6532;
 		rType = 0;
-		vrLen = 1059;
-		vrLoc = 1478;
+		vrLen = 1288;
+		vrLoc = 5667;
 	};
-	E8B3737911F4224200788A35 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = E8B3737A11F4224200788A35 /* index.html */;
-		name = "index.html: 415";
-		rLen = 0;
-		rLoc = 12830;
-		rType = 0;
-		vrLen = 872;
-		vrLoc = 9789;
-	};
-	E8B3737A11F4224200788A35 /* index.html */ = {
+	E89151B411F6C04100B7956B /* phonegap.js */ = {
 		isa = PBXFileReference;
-		lastKnownFileType = text.html;
-		name = index.html;
-		path = /Users/chirayush/Documents/workspace/tetris/www/index.html;
+		name = phonegap.js;
+		path = /Users/chirayush/Documents/workspace/tetris/www/phonegap.js;
+		sourceTree = "<absolute>";
+	};
+	E89151B511F6C04100B7956B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E89151B611F6C04100B7956B /* phonegap.js */;
+		name = "phonegap.js: 1250";
+		rLen = 0;
+		rLoc = 36679;
+		rType = 0;
+		vrLen = 1326;
+		vrLoc = 5667;
+	};
+	E89151B611F6C04100B7956B /* phonegap.js */ = {
+		isa = PBXFileReference;
+		name = phonegap.js;
+		path = /Users/chirayush/Documents/workspace/tetris/www/phonegap.js;
 		sourceTree = "<absolute>";
 	};
 	E8BDB7BA11D984390008E3A9 /* tetris */ = {
@@ -97,7 +101,7 @@
 		argumentStrings = (
 		);
 		autoAttachOnCrash = 1;
-		breakpointsEnabled = 0;
+		breakpointsEnabled = 1;
 		configStateDict = {
 		};
 		customDataFormattersEnabled = 1;
@@ -119,6 +123,8 @@
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
+		variableFormatDictionary = {
+		};
 	};
 	E8BDB7D511D984520008E3A9 /* Source Control */ = {
 		isa = PBXSourceControlManager;
@@ -162,16 +168,6 @@
 		path = /Users/chirayush/Documents/workspace/tetris/www/tetris.html;
 		sourceTree = "<absolute>";
 	};
-	E8DB5FAF11F5742600E07C16 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = E8DB5FB011F5742600E07C16 /* index.html */;
-		name = "index.html: 430";
-		rLen = 0;
-		rLoc = 13151;
-		rType = 0;
-		vrLen = 1402;
-		vrLoc = 0;
-	};
 	E8DB5FB011F5742600E07C16 /* index.html */ = {
 		isa = PBXFileReference;
 		lastKnownFileType = text.html;
@@ -179,9 +175,9 @@
 		path = /Users/chirayush/Documents/workspace/tetris/www/index.html;
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {999, 5382}}";
-			sepNavSelRange = "{465, 0}";
-			sepNavVisRange = "{1478, 1059}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 5564}}";
+			sepNavSelRange = "{7394, 0}";
+			sepNavVisRange = "{6648, 1012}";
 		};
 	};
 }
